@@ -1,0 +1,6 @@
+Chat Basico (en proceso - incompleto)
+Este Chat esta hecho en:
+- Lenguaje de Programacion
+- IDE NetBeans
+- Servlet
+- Sesiones
